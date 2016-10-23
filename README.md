@@ -1,7 +1,9 @@
-# data2day-2016
-Live code samples for "Einführung Datenanalyse mit Pandas" at data2day conference, Karlsruhe 2016
+# Introduction to Pandas and Time Series Analysis
+Live code samples for my presentations at 
+BI Forum, Budapest
+PYCon DE, Munich
 
-Slides (German) included: Slides-Introduction to Pandas and Time Series Analysis.pdf.
+Slides included: Introduction to Pandas and Time Series Analysis.pdf
 
 ![alt tag](pic/slides.png)
 
